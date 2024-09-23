@@ -1,5 +1,17 @@
 # data_space
 
+minikube status
+
+docker ps
+
+kubectl get nodes
+
+kubectl get nodes -A
+
+
+
+
+
 
 
 links:
